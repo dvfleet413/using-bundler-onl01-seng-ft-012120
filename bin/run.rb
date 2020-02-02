@@ -1,4 +1,4 @@
-require_relative '../config/evironment'
+require_relative '../config/evironment.rb'
 
 Hashie
 Sinatra
